@@ -1,0 +1,9 @@
+[en]
+  title = "Study With Thune"
+  languageName = "English"
+  weight = 1
+
+[ko]
+  title = "Study With Thune"
+  languageName = "한국어"
+  weight = 2
