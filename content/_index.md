@@ -1,4 +1,5 @@
 ---
+homeHeaderType: text
 header:
   - type: text
     height: 200
@@ -6,10 +7,14 @@ header:
     paddingY: 0
     align: center
     title:
-      - STUDY WITH THUNE
+      - Study With Thune
     subtitle:
       - Welcome to my blog! Hope you have a nice day!
+    titleColor: # #123456, red
+    titleShadow: true
     titleFontSize: 44
+    subtitleColor: # #123456, red
+    subtitleCursive: true
     subtitleFontSize: 16
     spaceBetweenTitleSubtitle: 20
   
@@ -26,12 +31,24 @@ header:
       -
     subtitle:
       -
+    titleColor:
+    titleShadow: false
     titleFontSize: 44
+    subtitleColor:
+    subtitleCursive: false
     subtitleFontSize: 16
     spaceBetweenTitleSubtitle: 20
 
   - type: slide
     height: 235
+    options:
+        startSlide: 0
+        auto: 5000 # auto slide delay 5000ms(5sec)
+        draggable: true # slide draggable
+        autoRestart: true # restart after drag finished
+        continuous: true # last to first
+        disableScroll: true
+        stopPropagation: true
     slide:
       - paddingX: 50
         paddingY: 0
