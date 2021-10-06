@@ -21,3 +21,9 @@
   name = "notes"
   url = "notes"
   weight = 4
+
+[[main]]
+  identifier = "talks"
+  name = "talks"
+  url = "talks"
+  weight = 5
