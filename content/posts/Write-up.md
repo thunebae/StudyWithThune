@@ -1,5 +1,6 @@
 ---
 title: "Write-ups REV CTF"
+author: "thunebae"
 date: 2021-10-06T12:00:06+09:00
 description: "Some write-ups of CTF contests that I solved before"
 tags:
