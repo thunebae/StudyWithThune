@@ -4,10 +4,10 @@
   url = "about"
   weight = 1
 
-[[main]]
-  identifier = "talks"
-  name = "talks"
-  url = "talks"
+  [[main]]
+  identifier = "archive"
+  name = "archive"
+  url = "archive"
   weight = 2
 
 [[main]]
@@ -15,10 +15,3 @@
   name = "posts"
   url = "posts"
   weight = 3
-
-
-[[main]]
-  identifier = "archive"
-  name = "archive"
-  url = "archive"
-  weight = 4

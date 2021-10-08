@@ -9,7 +9,7 @@ header:
     title:
       - Study With Thune
     subtitle:
-      - Welcome to my blog! Hope you have a nice day!
+      - 🍀Welcome to my blog! Hope you have a nice day🍀
     titleColor: # #123456, red
     titleShadow: true
     titleFontSize: 44

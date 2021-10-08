@@ -1,27 +1,30 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
+description = "My profile"
 type = "about"
 date = "2019-02-28"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+# Hola 👋
+## ✨Welcome to my page and I am thunebae✨
 
-Hugo makes use of a variety of open source projects including:
+👧 *Well! This is a page of a little girl who try to study something in security, not easy, but it's all her efforts everyday to gain knowledge* 😕
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+📧 *Thank you to visit my page* 😊
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+- 🔭 I’m currently studying on UIT (a university in Viet Nam)
+- 🌱 I’m currently learning Security Information
+- 🤔 I’m looking for help with somebody who can love me 😝
+- ⚡ Fun fact: I don't play game but I can spent 3 hours to watch streamers play it 	😃
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+#### 🤔 I am currently focusing on:
+* CTF: Write up some challenge rev (just rev 😅)
+* And something else bla bla bla
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+[![thunebae's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thunebae&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+##### ©2021 by thunebae
+<!-- --!>
 
 
 

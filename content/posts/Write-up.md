@@ -200,5 +200,5 @@ print(hashlib.md5(str(s).encode()).hexdigest())
 {{% alert theme="danger" %}}**FLAG** uiuctf{627360eb8aa0da45ff04a514dab40e54}{{% /alert %}}
 
 
-*Xem thêm và tải file đề bài tại* {{< color "#0000ff" >}}<a href="https://github.com/thunebae/Write-up-RE" title="Github">Github</a>
+*Read more and download file at* {{< color "#0000ff" >}}<a href="https://github.com/thunebae/Write-up-RE" title="Github">Github</a>
 {{< /color >}}

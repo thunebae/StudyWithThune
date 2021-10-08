@@ -60,7 +60,7 @@ typeIcon = "🎯"
 
 # whoami: usage - home page sidebar, single page bottom of post. all values can be empty
 myname = "thunebae"
-email = "happynguyen@gmail.com"
+email = "happynguyen1902@gmail.com"
 whoami = "Student"
 useGravatar = false
 location = "Dong Nai, Viet Nam"
@@ -74,6 +74,7 @@ enableSidebarTags = true # if you want to use tags.
 enableSidebarSeries = true
 enableSidebarCategories = true
 enableListSidebarTitles = true
+enableHomeSidebarTitles = true
 enableToc = true
 hideToc = false
 tocFolding = true
@@ -157,11 +158,11 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = "mailto:happynguyen1902@email.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = "https://www.facebook.com/thune.serein/"
+  twitter = "https://twitter.com/thunebae"
+  github = "https://github.com/thunebae"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
